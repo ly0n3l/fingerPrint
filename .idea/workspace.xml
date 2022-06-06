@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7734c556-ca61-4281-97aa-1bbdf64a35c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fingerprint/META-INF/Fingerprint.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fingerprint/com/tericcabrel/FingerPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fingerprint/com/tericcabrel/FingerPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fingerprint/com/tericcabrel/FingerprintScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fingerprint/com/tericcabrel/FingerprintScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fingerprint/com/tericcabrel/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fingerprint/com/tericcabrel/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsirisCore/OsirisCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OsirisCore/OsirisCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsirisWeb/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OsirisWeb/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akajou/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../akajou/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e44a7d0d-fcb9-4126-a773-59becd755b75" />
+        <option name="url" value="https://github.com/ly0n3l/java_project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SIRIub0dpFbigauks0qg5Yuv2m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OsirisWeb" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.tericcabrel.Main" />
+      <module name="Fingerprint" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7734c556-ca61-4281-97aa-1bbdf64a35c1" name="Default Changelist" comment="" />
+      <created>1571249046133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571249046133</updated>
+      <workItem from="1571249048041" duration="13004000" />
+      <workItem from="1571280561127" duration="7765000" />
+      <workItem from="1571338836479" duration="3142000" />
+      <workItem from="1651423249718" duration="4242000" />
+      <workItem from="1651746854683" duration="4198000" />
+      <workItem from="1651840910968" duration="1600000" />
+      <workItem from="1651849959805" duration="1831000" />
+      <workItem from="1652091198515" duration="9535000" />
+      <workItem from="1654164852336" duration="431000" />
+      <workItem from="1654342596368" duration="65479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
